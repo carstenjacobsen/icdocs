@@ -1,13 +1,13 @@
 [
   {
     "id": 0,
-    "name": "Test Tutorial 1",
+    "title": "Test Tutorial 1",
     "description": "This is a short description of the tutorial",
     "url": "https://raw.githubusercontent.com/carstenjacobsen/dfinidocs/main/tutorial1/doc.md"
   },
   {
     "id": 1,
-    "name": "Test Tutorial 2",
+    "title": "Test Tutorial 2",
     "description": "This is a short description of the tutorial",
     "url": "https://raw.githubusercontent.com/carstenjacobsen/dfinidocs/main/tutorial2/doc.md"
   }
